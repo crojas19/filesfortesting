@@ -1,0 +1,4 @@
+,abuseConfidenceScore,countryCode,countryName,domain,hostnames,ipAddress,ipVersion,isPublic,isWhitelisted,isp,lastReportedAt
+0,100,CN,China,sinotmt.com,[],111.229.4.66,4,True,False,Beijing Faster Internet Technology Co. Ltd,2021-12-23T00:00:11+00:00
+1,100,IN,India,,[],103.198.10.145,4,True,False,SCO 1-4 PPR Mall 4th Floor Jalandhar City Centre Mithapur Road Jalandhar,2021-12-22T23:32:29+00:00
+2,100,RU,Russian Federation,changway.hk,[],92.255.85.237,4,True,False,Chang Way Technologies Co. Limited,2021-12-23T00:45:59+00:00

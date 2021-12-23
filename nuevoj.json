@@ -1,0 +1,57 @@
+[
+    {
+        "abuseConfidenceScore": 6,
+        "countryCode": "AU",
+        "countryName": "Australia",
+        "domain": "apnic.net",
+        "hostnames": [],
+        "ipAddress": "1.2.3.4",
+        "ipVersion": 4,
+        "isPublic": true,
+        "isWhitelisted": false,
+        "isp": "APNIC Pty Ltd",
+        "lastReportedAt": "2021-12-17T12:55:17+00:00",
+        "numDistinctUsers": 1,
+        "reports": [
+            {
+                "categories": [
+                    1,
+                    2,
+                    4,
+                    10,
+                    14,
+                    15,
+                    18,
+                    19,
+                    21
+                ],
+                "comment": "$f2bV_matches",
+                "reportedAt": "2021-12-17T12:55:17+00:00",
+                "reporterCountryCode": "RO",
+                "reporterCountryName": "Romania",
+                "reporterId": 59435
+            },
+            {
+                "categories": [
+                    1,
+                    2,
+                    4,
+                    10,
+                    14,
+                    15,
+                    18,
+                    19,
+                    21
+                ],
+                "comment": "$f2bV_matches",
+                "reportedAt": "2021-11-25T22:33:21+00:00",
+                "reporterCountryCode": "RO",
+                "reporterCountryName": "Romania",
+                "reporterId": 59435
+            }
+        ],
+        "totalReports": 2,
+        "usageType": "Data Center/Web Hosting/Transit"
+    }
+   
+]

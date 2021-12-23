@@ -1,0 +1,60 @@
+{
+    "abuseConfidenceScore": 66,
+    "countryCode": "SG",
+    "countryName": "Singapore",
+    "domain": "starhub.com",
+    "hostnames": [
+        "227.211.86.116.starhub.net.sg"
+    ],
+    "ipAddress": "116.86.211.227",
+    "ipVersion": 4,
+    "isPublic": true,
+    "isWhitelisted": false,
+    "isp": "StarHub Cable Vision Ltd",
+    "lastReportedAt": "2021-12-22T23:32:35+00:00",
+    "numDistinctUsers": 4,
+    "reports": [
+        {
+            "categories": [
+                14
+            ],
+            "comment": "PortscanT",
+            "reportedAt": "2021-12-22T23:32:35+00:00",
+            "reporterCountryCode": "DE",
+            "reporterCountryName": "Germany",
+            "reporterId": 56590
+        },
+        {
+            "categories": [
+                14
+            ],
+            "comment": "Dec 21 2021 00:51:16 GMT+0000 - Port scan: TCP 23",
+            "reportedAt": "2021-12-21T23:59:02+00:00",
+            "reporterCountryCode": "IT",
+            "reporterCountryName": "Italy",
+            "reporterId": 44008
+        },
+        {
+            "categories": [
+                14
+            ],
+            "comment": "1639720767 - 12/17/2021 00:59:27 Host: 116.86.211.227/116.86.211.227 Port: 23 TCP Blocked\n...",
+            "reportedAt": "2021-12-17T05:59:28+00:00",
+            "reporterCountryCode": "BG",
+            "reporterCountryName": "Bulgaria",
+            "reporterId": 52460
+        },
+        {
+            "categories": [
+                14
+            ],
+            "comment": "Portscan on 23/TCP blocked by UFW",
+            "reportedAt": "2021-12-16T23:26:38+00:00",
+            "reporterCountryCode": "DE",
+            "reporterCountryName": "Germany",
+            "reporterId": 71060
+        }
+    ],
+    "totalReports": 4,
+    "usageType": "Fixed Line ISP"
+}
